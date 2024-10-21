@@ -1,7 +1,7 @@
 <h1 align="center">Yelp-Scraping</h1>
 <a href="https://www.yelp.com">
   <div align="center">
-    <br><img align-"center" src="https://raw.githubusercontent.com/BeautifulMoon211/Yelp-Scraping/refs/heads/auxiliary/yelp_logo.png" width='300'/>
+    <br><img align-"center" src="https://raw.githubusercontent.com/AIXerum/Yelp-Scraping/refs/heads/auxiliary/yelp_logo.png" width='300'/>
   </div><br>
 </a>
 
@@ -24,7 +24,7 @@ Yelp can also be a great way to get feedback from customers. You can see what pe
 So if you’re wondering whether or not Yelp is worth your time, the answer is yes! It’s a great way to promote your business and get customer feedback.
 <a href="https://www.enterpriseappstoday.com/stats/yelp-statistics.html">
   <div align="center">
-    <img align-"center" src="https://raw.githubusercontent.com/BeautifulMoon211/Yelp-Scraping/refs/heads/auxiliary/yelp_back.jfif"/>
+    <img align-"center" src="https://raw.githubusercontent.com/AIXerum/Yelp-Scraping/refs/heads/auxiliary/yelp_back.jfif"/>
   </div>
 </a>
 I hope this blog will help you understand. - <a href="https://www.enterpriseappstoday.com/stats/yelp-statistics.html">
@@ -51,8 +51,6 @@ I hope this blog will help you understand. - <a href="https://www.enterpriseapps
 | 3      | EmPower Solar | empower-solar.com | (516) 837-3459 |                            | Daid S.   |
 |...|...|...|...|...|...|
 
-**Live Demo for Yelp Scraper is [here](https://www.loom.com/share/0ae6d558f6c94ba09b64bb1edf40a805?sid=0e0683fb-e212-4823-a84f-bfb120d3ac68)** 
-
 ## Cities Selector
 > You can also get cities which located in service provided area.
 
@@ -74,7 +72,6 @@ WASHINGTON, OMAK: 48.411, -119.5276
 NEW HAMPSHIRE, FRANKLIN: 43.4442, -71.6473
 ...
 ```
-**Live Demo for Coordinates Finder is [here](https://www.loom.com/share/36d816493f4a4f9db6bdef8ad27cf1a0?sid=9f49f28b-2f6b-4719-aa6f-95e96b46c5aa)** 
 
 ### Cities Selector
 Based on coordinates from Yelp Scraper and Coordinates Finder, let's find cities which located in the area the company supported.
