@@ -95,8 +95,6 @@ Cities are :  ['LARCHMONT', 'GREAT NECK ESTATES', 'KINGS POINT', 'MAMARONECK', '
 ## Wordpress Detector
 > If you append `/wp-admin` or `/wp-login.php` to the website's URL and it takes you to a login page, it is likely a WordPress site. Check whether the modified path is valid or not.
 
-**Live Demo for Wordpress Detector is [here](https://www.loom.com/share/c0b84d6d56204ad28f4480365eec2076?sid=b0eb5766-c288-4a3a-87d2-22de00298adc)** 
-
 ## Social Contact Scraper
 > Parse any website and find the spicific pattern for social contact information. Scrape them as much as possible.
 ```
