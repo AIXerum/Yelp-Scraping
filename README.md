@@ -1,7 +1,7 @@
 <h1 align="center">Yelp-Scraping</h1>
 <a href="https://www.yelp.com">
   <div align="center">
-    <br><img align-"center" src="https://raw.githubusercontent.com/AIXerum/Yelp-Scraping/refs/heads/auxiliary/yelp_logo.png" width='300'/>
+    <br><img align-"center" src="https://leakdetectives.biz/wp-content/uploads/2019/12/review-yelp.png" width='300'/>
   </div><br>
 </a>
 
@@ -24,7 +24,7 @@ Yelp can also be a great way to get feedback from customers. You can see what pe
 So if you’re wondering whether or not Yelp is worth your time, the answer is yes! It’s a great way to promote your business and get customer feedback.
 <a href="https://www.enterpriseappstoday.com/stats/yelp-statistics.html">
   <div align="center">
-    <img align-"center" src="https://raw.githubusercontent.com/AIXerum/Yelp-Scraping/refs/heads/auxiliary/yelp_back.jfif"/>
+    <img align-"center" src="https://user-images.githubusercontent.com/83681204/133468776-bae63ce1-7e78-4e35-a14d-f5f329d8098b.jpg"/>
   </div>
 </a>
 I hope this blog will help you understand. - <a href="https://www.enterpriseappstoday.com/stats/yelp-statistics.html">
@@ -78,7 +78,7 @@ Based on coordinates from Yelp Scraper and Coordinates Finder, let's find cities
 
 <a href="https://www.yelp.com/map/sunation-energy-ronkonkoma">
   </br><div align="center">
-    <img align-"center" src="https://raw.githubusercontent.com/BeautifulMoon211/Yelp-Scraping/refs/heads/auxiliary/staticmap.png" width='315px'/>
+    <img align-"center" src="https://www.nature.org/maps-static-image?zoom=8&size=600x300&markers=40.871996,-72.998811" width='315px'/>
   </div></br>
 </a>
 
@@ -102,36 +102,3 @@ Social contact information: https://www.youtube.com/@sunationenergy
                             leads@sunation.com
                             https://www.facebook.com/SUNationEnergy
 ```
-
-## Project Info
-### Author 
-Sweem
-
-### Developers
- - [Sweem](https://github.com/beautifulmoon211)
- - [Johnson Takashi](https://github.com/HighAmbition211)
- - [Justing Wong](https://github.com/webghost241)
- - [Yuming Long](https://github.com/AI-General)
-
-### Version
-1.0.0
-
-### License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/BeautifulMoon211/Yelp-Scraping/blob/dev/LICENSE) file for details.
-
-<h3>
-    If you found this project useful or interesting, please consider giving it a 
-    <a href="https://github.com/BeautifulMoon211/Yelp-Scraping">
-        <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/refs/heads/auxiliary/others/star.gif" style="width:25px"> 
-        Star
-    </a>, or 
-    <a href="https://github.com/BeautifulMoon211/">
-        Following
-    </a> 
-    me.
-    If you'd like to use this template, feel free to 
-    <a href="https://github.com/BeautifulMoon211/Yelp-Scraping/fork">
-        Fork
-    </a> 
-    it and customize it to your needs!
-</h3>
